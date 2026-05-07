@@ -1,0 +1,5 @@
+```{r}
+mean <- mean(df$age)
+var <- var(df$age)
+std <- sqrt(var)
+```
